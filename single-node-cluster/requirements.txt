@@ -1,0 +1,4 @@
+Cython==0.29.24
+pyspark==3.0.3
+requests
+PyOpenSSL
